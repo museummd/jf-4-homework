@@ -1,16 +1,16 @@
 package md.tekwill.jf4.homework;
 
-public class Exercise2 {
+public class Exercise3 {
 
     /*
-    * Write a Java program to print the sum of two numbers. Go to the editor
-    * Test Data:
-    * 74 + 36
+    * Write a Java program to divide two numbers and print on the screen. Go to the editor
+    * Test Data :
+    * 50/3
     * Expected Output :
-    * 110
+    * 16
     */
 
     public static void main(String[] args) {
-        // System.out.println(?);
+
     }
 }

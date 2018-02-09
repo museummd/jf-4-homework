@@ -1,17 +1,16 @@
 package md.tekwill.jf4.homework;
 
-public class Exercise1 {
+public class Exercise2 {
 
     /*
-    * Write a Java program to print 'Hello' on screen and then print your name on a separate line. Go to the editor
-    *
+    * Write a Java program to print the sum of two numbers. Go to the editor
+    * Test Data:
+    * 74 + 36
     * Expected Output :
-    * Hello
-    * Alexandra Abramov
+    * 110
     */
 
     public static void main(String[] args) {
-        System.out.println("Hello");
-        System.out.println("Alexandra Abramov");
+        // System.out.println(?);
     }
 }

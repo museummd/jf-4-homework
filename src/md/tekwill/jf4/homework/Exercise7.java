@@ -1,13 +1,14 @@
 package md.tekwill.jf4.homework;
 
-public class Exercise6 {
+public class Exercise7 {
 
     /*
-     * Write a Java program to compute the specified expressions and print the output. Go to the editor
+     * Write a Java program to print the area and perimeter of a circle. Go to the editor
      * Test Data:
-     * ((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5))
+     * Radius = 7.5
      * Expected Output
-     * 2.138888888888889
+     * Perimeter is = 47.12388980384689
+     * Area is = 176.71458676442586
      */
 
     public static void main(String[] args) {

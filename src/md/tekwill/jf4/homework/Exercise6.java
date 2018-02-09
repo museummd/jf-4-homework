@@ -1,15 +1,13 @@
 package md.tekwill.jf4.homework;
 
-public class Exercise5 {
+public class Exercise6 {
 
     /*
-     * Write a Java program to display the following pattern. Go to the editor
-     * Sample Pattern :
-     *
-     *    J    a   v     v  a
-     *    J   a a   v   v  a a
-     * J  J  aaaaa   V V  aaaaa
-     *  JJ  a     a   V  a     a
+     * Write a Java program to compute the specified expressions and print the output. Go to the editor
+     * Test Data:
+     * ((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5))
+     * Expected Output
+     * 2.138888888888889
      */
 
     public static void main(String[] args) {
